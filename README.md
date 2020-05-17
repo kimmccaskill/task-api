@@ -18,7 +18,7 @@ Documentation for endpoints can be found [here](https://documenter.getpostman.co
   - Database GUI Viewer: [Robo 3T](https://robomongo.org/)
   - Object Modeling: [Mongoose](https://www.npmjs.com/package/mongoose)
   - API Documentation: [Postman](https://www.postman.com/)
-  - Email Delievry Service: [SendGrid](https://sendgrid.com/)
+  - Email Delivery Service: [SendGrid](https://sendgrid.com/)
   - Data Validation/Sanitization: [validator.js](https://www.npmjs.com/package/validator)
   - Password Hashing: [bcryptjs](https://www.npmjs.com/package/bcryptjs)
   - User Authentication: [JWT](https://www.npmjs.com/package/jsonwebtoken)
