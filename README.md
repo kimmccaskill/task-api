@@ -13,6 +13,7 @@ Documentation for endpoints can be found [here](https://documenter.getpostman.co
 - Framework: NodeJS/Express
 - Deployment: Heroku
 - Database: MongoDB
+- Database Hosting: [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - Tools/Libraries:
   - Database GUI Viewer: [Robo 3T](https://robomongo.org/)
   - Object Modeling: [Mongoose](https://www.npmjs.com/package/mongoose)
